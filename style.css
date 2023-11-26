@@ -1,0 +1,13 @@
+#parent {
+    padding: 40px;
+    background-color: green;
+    width: max-content;
+}
+
+#child1,
+#child2 {
+    display: block;
+    padding: 40px;
+    background-color: blue;
+    margin: 20px 0px;
+}
